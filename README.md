@@ -20,28 +20,6 @@ A real-time chat application built using Node.js, Socket.IO, and React.js. Suppo
 
 **Backend:** Node.js, Express, Socket.IO
 
-
-
-**📚 Project Structure**
-
-real-time-chat-app/
-│── 📂 backend/              # Node.js WebSocket server
-│   ├── 📄 server.js         # Main WebSocket server
-│   ├── 📄 package.json      # Dependencies & scripts
-│   └── 📂 node_modules/     # Installed dependencies
-│
-│── 📂 frontend/             # React frontend
-│   ├── 📂 src/              # React app source code
-│   │   ├── 📄 App.js        # Chat UI & logic
-│   │   ├── 📄 socket.js     # Socket.IO client connection
-│   │   ├── 📄 index.js      # React entry point
-│   │   └── 📄 styles.css    # Basic styling
-│   
-│   ├── 📄 package.json      # Frontend dependencies
-│   └── 📂 node_modules/     # Installed dependencies
-│
-└── 📄 README.md             # Project documentation
-
 **🎯 Setup Instructions**
 
 **🔹 1. Clone the repository**
